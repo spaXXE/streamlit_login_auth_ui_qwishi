@@ -2,4 +2,4 @@
 
 Proudly forked and modified the login's input field placeholders to suit my project!!
 To do the same or even more, fork the repository and modify the widgets.py file{https://github.com/fsmosca/streamlit_login_auth_ui/blob/main/streamlit_login_auth_ui/widgets.py } to your taste and liking!!
-
+Happy Coding...
